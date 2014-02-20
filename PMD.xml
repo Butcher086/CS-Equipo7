@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ruleset name="Test ruleset"
+    xmlns="http://pmd.sourceforge.net/ruleset/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/ruleset/2.0.0 http://pmd.sourceforge.net/ruleset_2_0_0.xsd">
+    <description>
+        TEST
+    </description>
+    <!-- http://pmd.sourceforge.net/pmd-5.0.4/rules/java/naming.html -->
+    <rule ref="rulesets/java/naming.xml"/>
+    
+    <!-- http://pmd.sourceforge.net/pmd-5.0.4/rules/java/braces.html -->
+    <rule ref="rulesets/java/braces.xml"/>
+    
+    <!-- http://pmd.sourceforge.net/pmd-5.0.4/rules/java/codesize.html -->
+    <rule ref="rulesets/java/codesize.xml"/>
+    
+    <!-- http://pmd.sourceforge.net/pmd-5.0.4/rules/java/controversial.html -->
+    <rule ref="rulesets/java/controversial.xml"/>
+    
+    <!-- http://pmd.sourceforge.net/pmd-5.0.4/rules/java/strings.html -->
+    <rule ref="rulesets/java/strings.xml"/>
+</ruleset>

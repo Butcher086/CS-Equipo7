@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.0.2" timestamp="2014-02-20T18:29:47.774">
+<file name="/Users/Esteban/Documents/MavenProyects/CS-Equipo7/App/src/main/java/CalidadSoftware/App.java">
+<violation beginline="1" endline="1" begincolumn="9" endcolumn="23" rule="PackageCase" ruleset="Naming" package="CalidadSoftware" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#PackageCase" priority="3">
+Package name contains upper case characters
+</violation>
+<violation beginline="5" endline="118" begincolumn="8" endcolumn="1" rule="ShortClassName" ruleset="Naming" package="CalidadSoftware" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortClassName" priority="4">
+A Classname should have a minimum of five characters
+</violation>
+<violation beginline="10" endline="10" begincolumn="39" endcolumn="64" rule="StringInstantiation" ruleset="String and StringBuffer" package="CalidadSoftware" class="App$Combinacion" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/strings.html#StringInstantiation" priority="2">
+Avoid instantiating String objects; this is usually unnecessary.
+</violation>
+<violation beginline="34" endline="34" begincolumn="33" endcolumn="33" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" variable="a" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like a
+</violation>
+<violation beginline="34" endline="34" begincolumn="41" endcolumn="41" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" variable="b" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like b
+</violation>
+<violation beginline="34" endline="34" begincolumn="49" endcolumn="49" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" variable="c" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like c
+</violation>
+<violation beginline="34" endline="34" begincolumn="57" endcolumn="57" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like d
+</violation>
+<violation beginline="35" endline="35" begincolumn="26" endcolumn="37" rule="StringInstantiation" ruleset="String and StringBuffer" package="CalidadSoftware" class="App$Combinacion" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/strings.html#StringInstantiation" priority="2">
+Avoid instantiating String objects; this is usually unnecessary.
+</violation>
+<violation beginline="68" endline="68" begincolumn="21" endcolumn="22" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" method="generarCombinacion" variable="in" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like in
+</violation>
+<violation beginline="89" endline="89" begincolumn="26" endcolumn="37" rule="StringInstantiation" ruleset="String and StringBuffer" package="CalidadSoftware" class="App$Combinacion" method="mostrar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/strings.html#StringInstantiation" priority="2">
+Avoid instantiating String objects; this is usually unnecessary.
+</violation>
+<violation beginline="104" endline="104" begincolumn="21" endcolumn="21" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App" method="main" variable="A" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like A
+</violation>
+<violation beginline="104" endline="104" begincolumn="21" endcolumn="21" rule="VariableNamingConventions" ruleset="Naming" package="CalidadSoftware" class="App" method="main" variable="A" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#VariableNamingConventions" priority="1">
+Variables should start with a lowercase character, 'A' starts with uppercase character.
+</violation>
+</file>
+</pmd>
