@@ -1,41 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<pmd version="5.0.2" timestamp="2014-02-20T18:29:47.774">
-<file name="/Users/Esteban/Documents/MavenProyects/CS-Equipo7/App/src/main/java/CalidadSoftware/App.java">
+<pmd version="5.0.2" timestamp="2014-02-23T17:59:02.360">
+<file name="/Users/Esteban/Documents/MavenProyects/CS-Equipo7/App/src/main/java/CalidadSoftware/CedulaComparator.java">
+<violation beginline="7" endline="7" begincolumn="9" endcolumn="23" rule="PackageCase" ruleset="Naming" package="CalidadSoftware" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#PackageCase" priority="3">
+Package name contains upper case characters
+</violation>
+<violation beginline="18" endline="18" begincolumn="30" endcolumn="31" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="CedulaComparator" method="compare" variable="o1" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o1
+</violation>
+<violation beginline="18" endline="18" begincolumn="41" endcolumn="42" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="CedulaComparator" method="compare" variable="o2" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o2
+</violation>
+<violation beginline="21" endline="21" begincolumn="12" endcolumn="13" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="CedulaComparator" method="compare" variable="p1" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p1
+</violation>
+<violation beginline="22" endline="22" begincolumn="12" endcolumn="13" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="CedulaComparator" method="compare" variable="p2" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p2
+</violation>
+<violation beginline="29" endline="29" begincolumn="34" endcolumn="34" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="CedulaComparator" method="equals" variable="o" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o
+</violation>
+</file>
+<file name="/Users/Esteban/Documents/MavenProyects/CS-Equipo7/App/src/main/java/CalidadSoftware/EdadComparator1.java">
+<violation beginline="7" endline="7" begincolumn="9" endcolumn="23" rule="PackageCase" ruleset="Naming" package="CalidadSoftware" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#PackageCase" priority="3">
+Package name contains upper case characters
+</violation>
+<violation beginline="17" endline="17" begincolumn="31" endcolumn="32" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="EdadComparator1" method="compare" variable="o1" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o1
+</violation>
+<violation beginline="17" endline="17" begincolumn="42" endcolumn="43" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="EdadComparator1" method="compare" variable="o2" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o2
+</violation>
+<violation beginline="19" endline="19" begincolumn="12" endcolumn="13" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="EdadComparator1" method="compare" variable="p1" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p1
+</violation>
+<violation beginline="20" endline="20" begincolumn="12" endcolumn="13" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="EdadComparator1" method="compare" variable="p2" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p2
+</violation>
+<violation beginline="26" endline="26" begincolumn="34" endcolumn="34" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="EdadComparator1" method="equals" variable="o" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o
+</violation>
+</file>
+<file name="/Users/Esteban/Documents/MavenProyects/CS-Equipo7/App/src/main/java/CalidadSoftware/NombreComparator1.java">
+<violation beginline="7" endline="7" begincolumn="9" endcolumn="23" rule="PackageCase" ruleset="Naming" package="CalidadSoftware" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#PackageCase" priority="3">
+Package name contains upper case characters
+</violation>
+<violation beginline="19" endline="19" begincolumn="34" endcolumn="35" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="NombreComparator1" method="compare" variable="o1" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o1
+</violation>
+<violation beginline="19" endline="19" begincolumn="45" endcolumn="46" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="NombreComparator1" method="compare" variable="o2" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o2
+</violation>
+<violation beginline="21" endline="21" begincolumn="12" endcolumn="13" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="NombreComparator1" method="compare" variable="p1" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p1
+</violation>
+<violation beginline="22" endline="22" begincolumn="12" endcolumn="13" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="NombreComparator1" method="compare" variable="p2" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p2
+</violation>
+<violation beginline="28" endline="28" begincolumn="34" endcolumn="34" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="NombreComparator1" method="equals" variable="o" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like o
+</violation>
+</file>
+<file name="/Users/Esteban/Documents/MavenProyects/CS-Equipo7/App/src/main/java/CalidadSoftware/Persona.java">
 <violation beginline="1" endline="1" begincolumn="9" endcolumn="23" rule="PackageCase" ruleset="Naming" package="CalidadSoftware" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#PackageCase" priority="3">
 Package name contains upper case characters
 </violation>
-<violation beginline="5" endline="118" begincolumn="8" endcolumn="1" rule="ShortClassName" ruleset="Naming" package="CalidadSoftware" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortClassName" priority="4">
-A Classname should have a minimum of five characters
+</file>
+<file name="/Users/Esteban/Documents/MavenProyects/CS-Equipo7/App/src/main/java/CalidadSoftware/Taller1.java">
+<violation beginline="7" endline="7" begincolumn="9" endcolumn="23" rule="PackageCase" ruleset="Naming" package="CalidadSoftware" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#PackageCase" priority="3">
+Package name contains upper case characters
 </violation>
-<violation beginline="10" endline="10" begincolumn="39" endcolumn="64" rule="StringInstantiation" ruleset="String and StringBuffer" package="CalidadSoftware" class="App$Combinacion" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/strings.html#StringInstantiation" priority="2">
-Avoid instantiating String objects; this is usually unnecessary.
+<violation beginline="31" endline="31" begincolumn="17" endcolumn="17" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="Taller1" method="main" variable="t" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like t
 </violation>
-<violation beginline="34" endline="34" begincolumn="33" endcolumn="33" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" variable="a" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
-Avoid variables with short names like a
+<violation beginline="48" endline="48" begincolumn="17" endcolumn="18" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="Taller1" method="init" variable="p1" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p1
 </violation>
-<violation beginline="34" endline="34" begincolumn="41" endcolumn="41" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" variable="b" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
-Avoid variables with short names like b
+<violation beginline="55" endline="55" begincolumn="13" endcolumn="14" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="Taller1" method="init" variable="p2" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p2
 </violation>
-<violation beginline="34" endline="34" begincolumn="49" endcolumn="49" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" variable="c" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
-Avoid variables with short names like c
-</violation>
-<violation beginline="34" endline="34" begincolumn="57" endcolumn="57" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" variable="d" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
-Avoid variables with short names like d
-</violation>
-<violation beginline="35" endline="35" begincolumn="26" endcolumn="37" rule="StringInstantiation" ruleset="String and StringBuffer" package="CalidadSoftware" class="App$Combinacion" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/strings.html#StringInstantiation" priority="2">
-Avoid instantiating String objects; this is usually unnecessary.
-</violation>
-<violation beginline="68" endline="68" begincolumn="21" endcolumn="22" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App$Combinacion" method="generarCombinacion" variable="in" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
-Avoid variables with short names like in
-</violation>
-<violation beginline="89" endline="89" begincolumn="26" endcolumn="37" rule="StringInstantiation" ruleset="String and StringBuffer" package="CalidadSoftware" class="App$Combinacion" method="mostrar" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/strings.html#StringInstantiation" priority="2">
-Avoid instantiating String objects; this is usually unnecessary.
-</violation>
-<violation beginline="104" endline="104" begincolumn="21" endcolumn="21" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="App" method="main" variable="A" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
-Avoid variables with short names like A
-</violation>
-<violation beginline="104" endline="104" begincolumn="21" endcolumn="21" rule="VariableNamingConventions" ruleset="Naming" package="CalidadSoftware" class="App" method="main" variable="A" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#VariableNamingConventions" priority="1">
-Variables should start with a lowercase character, 'A' starts with uppercase character.
+<violation beginline="62" endline="62" begincolumn="12" endcolumn="13" rule="ShortVariable" ruleset="Naming" package="CalidadSoftware" class="Taller1" method="init" variable="p3" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.2/rules/java/naming.html#ShortVariable" priority="3">
+Avoid variables with short names like p3
 </violation>
 </file>
 </pmd>

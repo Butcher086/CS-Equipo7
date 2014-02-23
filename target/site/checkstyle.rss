@@ -25,8 +25,8 @@ under the License.
     <language>en-us</language>
     <copyright>&#169;2014</copyright>
     <item>
-      <title>File: 1,
-             Errors: 138,
+      <title>File: 5,
+             Errors: 221,
              Warnings: 0,
              Infos: 0
       </title>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="http://maven.apache.org/checkstyle.html#CalidadSoftware.App.java">CalidadSoftware/App.java</a>
+                  <a href="http://maven.apache.org/checkstyle.html#CalidadSoftware.CedulaComparator.java">CalidadSoftware/CedulaComparator.java</a>
                 </td>
                 <td>
                   0
@@ -55,7 +55,63 @@ under the License.
                   0
                 </td>
                 <td>
-                  138
+                  22
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#CalidadSoftware.Persona.java">CalidadSoftware/Persona.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  72
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#CalidadSoftware.Taller1.java">CalidadSoftware/Taller1.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  90
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#CalidadSoftware.EdadComparator1.java">CalidadSoftware/EdadComparator1.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  19
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#CalidadSoftware.NombreComparator1.java">CalidadSoftware/NombreComparator1.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  18
                 </td>
               </tr>
                       </tbody>
